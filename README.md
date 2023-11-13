@@ -1,2 +1,2 @@
 # ML_HW3_AdaBoost
-Public repo for Foundations of Machine Learning Fall 2023 homework 3 implementation. 
+Public repo for Foundations of Machine Learning Fall 2023 homework 3 implementation. Can be made more efficient by including the prior distribution as a parameter instead of calculating every iteration. 
